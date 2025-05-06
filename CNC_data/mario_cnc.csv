@@ -1,0 +1,148 @@
+user_name,quality_grade,species_guess,scientific_name,common_name,iconic_taxon_name,taxon_id
+Mario Zuliani,research,Green Iguana,Iguana iguana,Green Iguana,Reptilia,35342
+Mario Zuliani,research,Northern Mockingbird,Mimus polyglottos,Northern Mockingbird,Aves,14886
+Mario Zuliani,research,Great Southern White,Ascia monuste,Great Southern White,Insecta,51536
+Mario Zuliani,needs_id,"",Corvus ossifragus,Fish Crow,Aves,8001
+Mario Zuliani,research,Madagascar Periwinkle,Catharanthus roseus,Madagascar Periwinkle,Plantae,62924
+Mario Zuliani,research,Shiny-leaved Wild Coffee,Psychotria nervosa,Shiny-leaved Wild Coffee,Plantae,51599
+Mario Zuliani,research,Silver Buttonwood,Conocarpus erectus sericeus,Silver Buttonwood,Plantae,201689
+Mario Zuliani,needs_id,"",Morus rubra,red mulberry,Plantae,54801
+Mario Zuliani,research,Paradise Tree,Simarouba glauca,Paradise Tree,Plantae,884600
+Mario Zuliani,research,Virginia creeper,Parthenocissus quinquefolia,Virginia creeper,Plantae,50278
+Mario Zuliani,research,painted leaf,Euphorbia cyathophora,painted leaf,Plantae,77109
+Mario Zuliani,research,common ragweed,Ambrosia artemisiifolia,common ragweed,Plantae,53587
+Mario Zuliani,research,American burnweed,Erechtites hieraciifolius,American burnweed,Plantae,130888
+Mario Zuliani,research,Florida Strangler Fig,Ficus aurea,Florida Strangler Fig,Plantae,120934
+Mario Zuliani,needs_id,"",Nephrolepis cordifolia,Fishbone Fern,Plantae,48233
+Mario Zuliani,research,Northern Mockingbird,Mimus polyglottos,Northern Mockingbird,Aves,14886
+Mario Zuliani,research,Blue Jay,Cyanocitta cristata,Blue Jay,Aves,8229
+Mario Zuliani,research,golden polypody,Phlebodium aureum,golden polypody,Plantae,127908
+Mario Zuliani,research,cucumberleaf sunflower,Helianthus debilis,cucumberleaf sunflower,Plantae,126565
+Mario Zuliani,research,North American Racer,Coluber constrictor,North American Racer,Reptilia,27137
+Mario Zuliani,research,sea ox-eye,Borrichia frutescens,sea ox-eye,Plantae,127270
+Mario Zuliani,research,Western Honey Bee,Apis mellifera,Western Honey Bee,Insecta,47219
+Mario Zuliani,research,Florida swampprivet,Forestiera segregata,Florida swampprivet,Plantae,126344
+Mario Zuliani,research,Brown Anole,Anolis sagrei,Brown Anole,Reptilia,116461
+Mario Zuliani,research,turkey tangle frogfruit,Phyla nodiflora,turkey tangle frogfruit,Plantae,59040
+Mario Zuliani,research,trailing daisy,Sphagneticola trilobata,trailing daisy,Plantae,246102
+Mario Zuliani,research,Common Yellowthroat,Geothlypis trichas,Common Yellowthroat,Aves,9721
+Mario Zuliani,research,Corn Snake,Pantherophis guttatus,Corn Snake,Reptilia,73887
+Mario Zuliani,research,St. Andrew's Cotton Stainer,Dysdercus andreae,St. Andrew's Cotton Stainer,Insecta,338717
+Mario Zuliani,needs_id,"",Cordia sebestena,Scarlet Cordia,Plantae,160878
+Mario Zuliani,research,Loggerhead Shrike,Lanius ludovicianus,Loggerhead Shrike,Aves,12024
+Mario Zuliani,research,Northern Mockingbird,Mimus polyglottos,Northern Mockingbird,Aves,14886
+Mario Zuliani,research,White beggarticks,Bidens alba,White beggarticks,Plantae,1095846
+Mario Zuliani,research,Dainty Sulphur,Nathalis iole,Dainty Sulphur,Insecta,51773
+Mario Zuliani,research,Gulf Fritillary,Dione vanillae,Gulf Fritillary,Insecta,49150
+Mario Zuliani,research,Loggerhead Shrike,Lanius ludovicianus,Loggerhead Shrike,Aves,12024
+Mario Zuliani,research,oakleaf fleabane,Erigeron quercifolius,oakleaf fleabane,Plantae,131153
+Mario Zuliani,research,Eastern Amberwing,Perithemis tenera,Eastern Amberwing,Insecta,59776
+Mario Zuliani,research,Dainty Sulphur,Nathalis iole,Dainty Sulphur,Insecta,51773
+Mario Zuliani,research,White Ibis,Eudocimus albus,White Ibis,Aves,3751
+Mario Zuliani,research,Barred Yellow,Eurema daira,Barred Yellow,Insecta,67324
+Mario Zuliani,research,Southern Green-striped Grasshopper,Chortophaga australior,Southern Green-striped Grasshopper,Insecta,130353
+Mario Zuliani,needs_id,"",Crinum americanum,Southern Swamp Crinum,Plantae,128713
+Mario Zuliani,needs_id,"",Ipomoea indica,oceanblue morning glory,Plantae,77496
+Mario Zuliani,needs_id,"",Portulaca amilis,Paraguayan Purslane,Plantae,127899
+Mario Zuliani,research,Muscovy Duck,Cairina moschata,Muscovy Duck,Aves,7120
+Mario Zuliani,research,Double-crested Cormorant,Nannopterum auritum,Double-crested Cormorant,Aves,1454382
+Mario Zuliani,research,Wood Stork,Mycteria americana,Wood Stork,Aves,4742
+Mario Zuliani,research,Green Heron,Butorides virescens,Green Heron,Aves,5020
+Mario Zuliani,needs_id,"",Oenobotys vinotinctalis,Wine-tinted Oenobotys Moth,Insecta,226270
+Mario Zuliani,needs_id,"",Tripsacum dactyloides,eastern gamagrass,Plantae,126563
+Mario Zuliani,research,Cane Toad,Rhinella marina,Cane Toad,Amphibia,553515
+Mario Zuliani,needs_id,"",Casuarina equisetifolia,Beach Sheoak,Plantae,62888
+Mario Zuliani,needs_id,"",Spermacoce verticillata,shrubby false buttonweed,Plantae,169171
+Mario Zuliani,needs_id,"",Sida ulmifolia,Common Fanpetals,Plantae,131597
+Mario Zuliani,needs_id,dicots,Magnoliopsida,dicots,Plantae,47124
+Mario Zuliani,research,Brazilian pepper,Schinus terebinthifolia,Brazilian pepper,Plantae,130872
+Mario Zuliani,research,Needham's Skimmer,Libellula needhami,Needham's Skimmer,Insecta,68911
+Mario Zuliani,research,inchplant,Tradescantia zebrina,inchplant,Plantae,169883
+Mario Zuliani,research,tropical milkweed,Asclepias curassavica,tropical milkweed,Plantae,75602
+Mario Zuliani,research,oceanblue morning glory,Ipomoea indica,oceanblue morning glory,Plantae,77496
+Mario Zuliani,research,Asian Lady Beetle,Harmonia axyridis,Asian Lady Beetle,Insecta,48484
+Mario Zuliani,needs_id,Magnolia Green Jumping Spider,Lyssomanes viridis,Magnolia Green Jumping Spider,Arachnida,68315
+Mario Zuliani,needs_id,"",Oenobotys vinotinctalis,Wine-tinted Oenobotys Moth,Insecta,226270
+Mario Zuliani,research,Rambur's Forktail,Ischnura ramburii,Rambur's Forktail,Insecta,70191
+Mario Zuliani,research,White Peacock,Anartia jatrophae,White Peacock,Insecta,49761
+Mario Zuliani,research,Indian Peafowl,Pavo cristatus,Indian Peafowl,Aves,1204
+Mario Zuliani,needs_id,"",Agathidini,,Insecta,796479
+Mario Zuliani,research,Indian Peafowl,Pavo cristatus,Indian Peafowl,Aves,1204
+Mario Zuliani,needs_id,"",Leptocerus americanus,American Long-horned Caddisfly,Insecta,223431
+Mario Zuliani,research,Common Raccoon,Procyon lotor,Common Raccoon,Mammalia,41663
+Mario Zuliani,research,Organ-pipe Mud-dauber Wasp,Trypoxylon politum,Organ-pipe Mud-dauber Wasp,Insecta,84844
+Mario Zuliani,needs_id,"",Metazygia wittfeldae,,Arachnida,263652
+Mario Zuliani,research,Northern Mockingbird,Mimus polyglottos,Northern Mockingbird,Aves,14886
+Mario Zuliani,research,Blue Jay,Cyanocitta cristata,Blue Jay,Aves,8229
+Mario Zuliani,research,Blue Jay,Cyanocitta cristata,Blue Jay,Aves,8229
+Mario Zuliani,research,Java plum,Syzygium cumini,Java plum,Plantae,169518
+Mario Zuliani,research,Northern Mockingbird,Mimus polyglottos,Northern Mockingbird,Aves,14886
+Mario Zuliani,research,Spanish Moth,Xanthopastis regnatrix,Spanish Moth,Insecta,322588
+Mario Zuliani,research,oakleaf fleabane,Erigeron quercifolius,oakleaf fleabane,Plantae,131153
+Mario Zuliani,research,baldcypress,Taxodium distichum,baldcypress,Plantae,49666
+Mario Zuliani,research,Silver Buttonwood,Conocarpus erectus sericeus,Silver Buttonwood,Plantae,201689
+Mario Zuliani,research,Green Buttonwood,Conocarpus erectus,Green Buttonwood,Plantae,62850
+Mario Zuliani,needs_id,"",Oxydia vesulia,,Insecta,478783
+Mario Zuliani,needs_id,"",Synchlora frondaria,Southern Emerald,Insecta,207924
+Mario Zuliani,needs_id,"",Rupela tinctella,Satin Rupela,Insecta,509720
+Mario Zuliani,needs_id,"",Diplotaxis,,Insecta,59476
+Mario Zuliani,research,Phaon Crescent,Phyciodes phaon,Phaon Crescent,Insecta,68274
+Mario Zuliani,needs_id,"",Oenothera humifusa,Seabeach Evening-primrose,Plantae,133290
+Mario Zuliani,needs_id,Lizards,Sauria,Lizards,Reptilia,85552
+Mario Zuliani,needs_id,"",Phyllophaga bruneri,Cuban May Beetle,Insecta,739232
+Mario Zuliani,research,Brown Anole,Anolis sagrei,Brown Anole,Reptilia,116461
+Mario Zuliani,needs_id,"",Scaevola taccada,beach naupaka,Plantae,363481
+Mario Zuliani,research,Seabeach Evening-primrose,Oenothera humifusa,Seabeach Evening-primrose,Plantae,133290
+Mario Zuliani,research,White beggarticks,Bidens alba,White beggarticks,Plantae,1095846
+Mario Zuliani,research,sea ox-eye,Borrichia frutescens,sea ox-eye,Plantae,127270
+Mario Zuliani,research,artillery plant,Pilea microphylla,artillery plant,Plantae,69172
+Mario Zuliani,research,trailing daisy,Sphagneticola trilobata,trailing daisy,Plantae,246102
+Mario Zuliani,research,Northern Mockingbird,Mimus polyglottos,Northern Mockingbird,Aves,14886
+Mario Zuliani,needs_id,"",Quiscalus major,Boat-tailed Grackle,Aves,9601
+Mario Zuliani,research,European Starling,Sturnus vulgaris,European Starling,Aves,14850
+Mario Zuliani,research,Common Purslane,Portulaca oleracea,Common Purslane,Plantae,58991
+Mario Zuliani,research,White beggarticks,Bidens alba,White beggarticks,Plantae,1095846
+Mario Zuliani,research,Western Honey Bee,Apis mellifera,Western Honey Bee,Insecta,47219
+Mario Zuliani,research,Feral Pigeon,Columba livia domestica,Feral Pigeon,Aves,122767
+Mario Zuliani,needs_id,"",Centropomus undecimalis,Common Snook,Actinopterygii,49437
+Mario Zuliani,research,Red Cushion Sea Star,Oreaster reticulatus,Red Cushion Sea Star,Animalia,49500
+Mario Zuliani,research,Red Cushion Sea Star,Oreaster reticulatus,Red Cushion Sea Star,Animalia,49500
+Mario Zuliani,research,White Ibis,Eudocimus albus,White Ibis,Aves,3751
+Mario Zuliani,research,White beggarticks,Bidens alba,White beggarticks,Plantae,1095846
+Mario Zuliani,research,House Finch,Haemorhous mexicanus,House Finch,Aves,199840
+Mario Zuliani,research,creeping beggarweed,Desmodium incanum,creeping beggarweed,Plantae,116694
+Mario Zuliani,research,Common Grackle,Quiscalus quiscula,Common Grackle,Aves,9602
+Mario Zuliani,research,Eastern Gray Squirrel,Sciurus carolinensis,Eastern Gray Squirrel,Mammalia,46017
+Mario Zuliani,research,White Ibis,Eudocimus albus,White Ibis,Aves,3751
+Mario Zuliani,research,European Starling,Sturnus vulgaris,European Starling,Aves,14850
+Mario Zuliani,research,Eurasian Collared-Dove,Streptopelia decaocto,Eurasian Collared-Dove,Aves,2969
+Mario Zuliani,needs_id,"",Cyanocitta cristata,Blue Jay,Aves,8229
+Mario Zuliani,research,Great Southern White,Ascia monuste,Great Southern White,Insecta,51536
+Mario Zuliani,research,Great Southern White,Ascia monuste,Great Southern White,Insecta,51536
+Mario Zuliani,research,Northern Curly-tailed Lizard,Leiocephalus carinatus,Northern Curly-tailed Lizard,Reptilia,39280
+Mario Zuliani,research,Great Southern White,Ascia monuste,Great Southern White,Insecta,51536
+Mario Zuliani,research,Northern Curly-tailed Lizard,Leiocephalus carinatus,Northern Curly-tailed Lizard,Reptilia,39280
+Mario Zuliani,research,Northern Curly-tailed Lizard,Leiocephalus carinatus,Northern Curly-tailed Lizard,Reptilia,39280
+Mario Zuliani,research,Sri Lanka Weevil,Myllocerus undecimpustulatus,Sri Lanka Weevil,Insecta,55183
+Mario Zuliani,research,Great Southern White,Ascia monuste,Great Southern White,Insecta,51536
+Mario Zuliani,research,Cocoplum,Chrysobalanus icaco,Cocoplum,Plantae,160544
+Mario Zuliani,needs_id,"",Scaevola taccada,beach naupaka,Plantae,363481
+Mario Zuliani,research,coinvine,Dalbergia ecastaphyllum,coinvine,Plantae,131244
+Mario Zuliani,research,red mangrove,Rhizophora mangle,red mangrove,Plantae,60335
+Mario Zuliani,research,Green Iguana,Iguana iguana,Green Iguana,Reptilia,35342
+Mario Zuliani,research,Portia tree,Thespesia populnea,Portia tree,Plantae,82768
+Mario Zuliani,research,cabbage palmetto,Sabal palmetto,cabbage palmetto,Plantae,123481
+Mario Zuliani,needs_id,"",Dalbergia ecastaphyllum,coinvine,Plantae,131244
+Mario Zuliani,needs_id,"",Myrcianthes fragrans,Simpson's Stopper,Plantae,165599
+Mario Zuliani,research,Brown Anole,Anolis sagrei,Brown Anole,Reptilia,116461
+Mario Zuliani,research,Virginia creeper,Parthenocissus quinquefolia,Virginia creeper,Plantae,50278
+Mario Zuliani,research,Virginia creeper,Parthenocissus quinquefolia,Virginia creeper,Plantae,50278
+Mario Zuliani,research,coinvine,Dalbergia ecastaphyllum,coinvine,Plantae,131244
+Mario Zuliani,research,Western Honey Bee,Apis mellifera,Western Honey Bee,Insecta,47219
+Mario Zuliani,needs_id,"",Leptuca pugilator,Atlantic Sand Fiddler Crab,Animalia,555968
+Mario Zuliani,needs_id,"",Eustachys petraea,Pinewoods Fingergrass,Plantae,162903
+Mario Zuliani,research,West Indian Bulimulus,Bulimulus guadalupensis,West Indian Bulimulus,Mollusca,215592
+Mario Zuliani,research,Brown Anole,Anolis sagrei,Brown Anole,Reptilia,116461
+Mario Zuliani,research,Portia tree,Thespesia populnea,Portia tree,Plantae,82768
+Mario Zuliani,research,coinvine,Dalbergia ecastaphyllum,coinvine,Plantae,131244
+Mario Zuliani,research,Brown Anole,Anolis sagrei,Brown Anole,Reptilia,116461

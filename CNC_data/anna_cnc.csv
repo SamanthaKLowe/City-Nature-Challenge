@@ -1,0 +1,75 @@
+user_name,quality_grade,species_guess,scientific_name,common_name,iconic_taxon_name,taxon_id
+,research,sea grape,Coccoloba uvifera,sea grape,Plantae,127284
+,research,Northern Mockingbird,Mimus polyglottos,Northern Mockingbird,Aves,14886
+,needs_id,"",Quercus virginiana,southern live oak,Plantae,49013
+,needs_id,"",Chamaecrista,sensitive and partridge peas,Plantae,53262
+,needs_id,"",Eustachys,,Plantae,157271
+,research,Cocoplum,Chrysobalanus icaco,Cocoplum,Plantae,160544
+,research,saw palmetto,Serenoa repens,saw palmetto,Plantae,83102
+,needs_id,Florida Pricklypear,Opuntia austrina,Florida Pricklypear,Plantae,441411
+,needs_id,"",Smilax,greenbriers,Plantae,60748
+,needs_id,"",Geobalanus oblongifolius,Gopher apple,Plantae,860746
+,research,Six-lined Racerunner,Aspidoscelis sexlineatus,Six-lined Racerunner,Reptilia,717858
+,needs_id,"",Persea,,Plantae,62848
+,research,muscadine,Vitis rotundifolia,muscadine,Plantae,82529
+,needs_id,"",Lyonia,lyonias,Plantae,129434
+,research,rusty staggerbush,Lyonia ferruginea,rusty staggerbush,Plantae,164987
+,needs_id,"",Morella cerifera,Southern Wax Myrtle,Plantae,119956
+,research,toothed midsorus fern,Telmatoblechnum serrulatum,toothed midsorus fern,Plantae,855610
+,needs_id,"",Hypericum,St. John's worts,Plantae,52761
+,research,Carolina willow,Salix caroliniana,Carolina willow,Plantae,125683
+,needs_id,"",Typha,Cattails,Plantae,48686
+,research,lanceleaf arrowhead,Sagittaria lancifolia,lanceleaf arrowhead,Plantae,69813
+,research,peppervine,Nekemias arborea,peppervine,Plantae,551846
+,research,buttonbush,Cephalanthus occidentalis,buttonbush,Plantae,52763
+,research,Brown Anole,Anolis sagrei,Brown Anole,Reptilia,116461
+,needs_id,"",Insecta,Insects,Insecta,47158
+,research,Florida rosemary,Ceratiola ericoides,Florida rosemary,Plantae,131247
+,research,Myrtle Oak,Quercus myrtifolia,Myrtle Oak,Plantae,167660
+,research,Shiny blueberry,Vaccinium myrsinites,Shiny blueberry,Plantae,170106
+,needs_id,"",Piloblephis rigida,Florida pennyroyal,Plantae,126595
+,research,Yellow Hatpins,Syngonanthus flavidulus,Yellow Hatpins,Plantae,169501
+,research,Yellow Bachelor's Button,Senega rugelii,Yellow Bachelor's Button,Plantae,1568931
+,needs_id,Southern Yellowwinged Grasshopper,Arphia granulata,Southern Yellowwinged Grasshopper,Insecta,194216
+,needs_id,"",Andropogon,bluestems,Plantae,71966
+,research,slash pine,Pinus elliottii,slash pine,Plantae,69985
+,research,Leavenworth's Tickseed,Coreopsis leavenworthii,Leavenworth's Tickseed,Plantae,131152
+,needs_id,"",Centella,Pennywort,Plantae,156991
+,research,West Indian meadowbeauty,Rhexia cubensis,West Indian meadowbeauty,Plantae,167796
+,needs_id,"",Rhexia cubensis,West Indian meadowbeauty,Plantae,167796
+,needs_id,"",Ptilimnium capillaceum,herbwilliam,Plantae,128655
+,research,marsh fleabane,Pluchea odorata,marsh fleabane,Plantae,60146
+,research,White Peacock,Anartia jatrophae,White Peacock,Insecta,49761
+,research,Sleepy Hibiscus,Hibiscus furcellatus,Sleepy Hibiscus,Plantae,163765
+,research,sea ox-eye,Borrichia frutescens,sea ox-eye,Plantae,127270
+,research,cabbage palmetto,Sabal palmetto,cabbage palmetto,Plantae,123481
+,research,White beggarticks,Bidens alba,White beggarticks,Plantae,1095846
+,research,Osprey,Pandion haliaetus,Osprey,Aves,116999
+,research,red mangrove,Rhizophora mangle,red mangrove,Plantae,60335
+,research,Western Honey Bee,Apis mellifera,Western Honey Bee,Insecta,47219
+,research,Shiny-leaved Wild Coffee,Psychotria nervosa,Shiny-leaved Wild Coffee,Plantae,51599
+,research,Mudflat Fiddler Crab,Minuca rapax,Mudflat Fiddler Crab,Animalia,555976
+,research,Great Blue Heron,Ardea herodias,Great Blue Heron,Aves,4956
+,research,Atlantic Needlefish,Strongylura marina,Atlantic Needlefish,Actinopterygii,113308
+,research,Pileated Woodpecker,Dryocopus pileatus,Pileated Woodpecker,Aves,17855
+,needs_id,"",Dryobates pubescens,Downy Woodpecker,Aves,792988
+,research,Queen,Danaus gilippus,Queen,Insecta,51743
+,needs_id,"",Plinthocoelium suaveolens,Bumelia Borer,Insecta,194609
+,needs_id,Prionini,Prionini,,Insecta,528665
+,needs_id,oaks,Quercus,oaks,Plantae,47851
+,research,fourpetal St. Johnswort,Hypericum tetrapetalum,fourpetal St. Johnswort,Plantae,128076
+,research,American beautyberry,Callicarpa americana,American beautyberry,Plantae,49193
+,research,Cocoplum,Chrysobalanus icaco,Cocoplum,Plantae,160544
+,needs_id,"",Sylvilagus palustris,Marsh Rabbit,Mammalia,43102
+,research,Eastern Gray Squirrel,Sciurus carolinensis,Eastern Gray Squirrel,Mammalia,46017
+,research,Northern Curly-tailed Lizard,Leiocephalus carinatus,Northern Curly-tailed Lizard,Reptilia,39280
+,research,Yellow-crowned Night Heron,Nyctanassa violacea,Yellow-crowned Night Heron,Aves,4999
+,research,Great Barracuda,Sphyraena barracuda,Great Barracuda,Actinopterygii,47251
+,needs_id,Common Mullets,Mugil,Common Mullets,Actinopterygii,54662
+,research,Necklace pod,Sophora tomentosa,Necklace pod,Plantae,127036
+,research,Green Iguana,Iguana iguana,Green Iguana,Reptilia,35342
+,research,Green Iguana,Iguana iguana,Green Iguana,Reptilia,35342
+,needs_id,"",Lysiloma latisiliquum,Wild Tamarind,Plantae,164990
+,research,Spiny Fiddlewood,Citharexylum spinosum,Spiny Fiddlewood,Plantae,160656
+,research,Great Egret,Ardea alba,Great Egret,Aves,144455
+,needs_id,Sargassum,Sargassum fluitans,Broad-leaved gulfweed,Chromista,134103
