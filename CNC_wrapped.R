@@ -3,7 +3,7 @@
 #May 5, 2025
 library(tidyverse)
 setwd("~/Documents/GitHub/City-Nature-Challenge/CNC_data")
-getwd()
+
 #load in Alachua data
 alachua <- read_csv("alachua_cnc.csv")|>
   filter(user_login == "jb1634"|user_login == "sam_k_lowe"|
@@ -41,7 +41,7 @@ sofl <- bind_rows(analise,anna, brittany, corey, marina, mario)|>
 
 #Make one df:
 cnc_gerg <- bind_rows(sofl, alachua)
-#total observations: 2,509
+#total observations: 2,509 and observers:
 length(unique(cnc_gerg$name))
 #number of unique species:
 length(unique(cnc_gerg$scientific_name)) # 1065
